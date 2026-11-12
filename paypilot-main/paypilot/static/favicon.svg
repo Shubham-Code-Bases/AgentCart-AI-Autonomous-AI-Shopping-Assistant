@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" width="36" height="36" fill="none">
+  <defs>
+    <linearGradient id="acFavGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4f46e5"/>
+      <stop offset="60%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <rect width="36" height="36" rx="9" fill="url(#acFavGrad)"/>
+  <path d="M8 11h3.2l2.8 11.2a1.2 1.2 0 0 0 1.2.9h11.2a1.2 1.2 0 0 0 1.2-.9l2.4-8.2H12" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="16" cy="27" r="1.6" fill="#ffffff"/>
+  <circle cx="25" cy="27" r="1.6" fill="#ffffff"/>
+  <path d="M23 6.5c0 1.8 1.4 2.5 1.4 2.5s-1.4.7-1.4 2.5c0-1.8-1.4-2.5-1.4-2.5s1.4-.7 1.4-2.5z" fill="#fde047"/>
+  <circle cx="27.5" cy="12" r="0.9" fill="#a5f3fc"/>
+</svg>
+
